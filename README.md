@@ -12,10 +12,11 @@ codemazza/codemazza is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <!-- Animated Header -->
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+SaiKiranBashetty;Aspiring+Full+Stack+%26+Web3+Developer;AR%2FVR+Explorer+%F0%9F%96%86%EF%B8%8F;Learning+by+Building+Every+Day" alt="Typing SVG" />
 </h1>
-
+--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F7FE&center=true&width=500&lines=Hi+%2C+I'm+Sai+Kiran+Bashetty+;Aspiring+full+stack+developer+%26+web3+dev+;AR+%2F+VR+explorer%3F;Learning+by+building+every+day!)](https://git.io/typing-svg)
 ---
 
 ### 👀 I’m interested in:
