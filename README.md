@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [[linkedin.com/in/SaiKiranBashetty](https://linkedin.com/in/yourname](https://www.linkedin.com/in/sai-kiran-bashetty-aa457816a/))  
+- LinkedIn: [[linkedin.com/in/SaiKiranBashetty](https://www.linkedin.com/in/sai-kiran-bashetty-aa457816a/))  
 - Email: bashettysaikiran@gmail.com
 
 ---
